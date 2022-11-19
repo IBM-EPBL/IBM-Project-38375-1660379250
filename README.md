@@ -23,7 +23,7 @@ A better solution is to introduce a one-stop solution as an application with use
 
 
 ## PROJECT WORKFLOW
-![Screen Shot](Pre-Development/Ideation%20Phase/images/screenshot.jpg)
+![Screen Shot](https://drive.google.com/file/d/17PpJkPAcm10BCVKtcRY0mCPte-1nRLUt/view?usp=share_link)
 
 
 ## OBJECTIVES
@@ -37,4 +37,4 @@ A better solution is to introduce a one-stop solution as an application with use
 
 ## TECHNICAL ARCHITECTURE
 
-![Architecture](Pre-Development/Ideation%20Phase/images/technical%20architecture.png)
+![Architecture](https://drive.google.com/file/d/1aDLAd9JBneo-vDMehsXmiJrtC10MIv6-/view?usp=share_link)

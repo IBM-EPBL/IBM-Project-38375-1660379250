@@ -23,7 +23,7 @@ A better solution is to introduce a one-stop solution as an application with use
 
 
 ## PROJECT WORKFLOW
-![Screen Shot](https://drive.google.com/file/d/17PpJkPAcm10BCVKtcRY0mCPte-1nRLUt/view?usp=share_link)
+![Screenshot 2022-11-19 120232](https://user-images.githubusercontent.com/110623534/202838126-8c7ba22e-c358-4397-9cd0-d382ec784381.png)
 
 
 ## OBJECTIVES
@@ -37,4 +37,4 @@ A better solution is to introduce a one-stop solution as an application with use
 
 ## TECHNICAL ARCHITECTURE
 
-![Architecture](https://drive.google.com/file/d/1aDLAd9JBneo-vDMehsXmiJrtC10MIv6-/view?usp=share_link)
+![Screenshot 2022-11-19 120309](https://user-images.githubusercontent.com/110623534/202838130-5238ff63-3460-4b16-b80e-c010767f871e.png)
